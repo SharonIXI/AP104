@@ -1,2 +1,4 @@
+20171029 relearn git
+
 This is a book
 The boo is mine
