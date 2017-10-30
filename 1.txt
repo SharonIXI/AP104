@@ -1,3 +1,4 @@
+
 20171030
 Test comflict
 Test comflict
@@ -15,6 +16,20 @@ create a new branch KKTEST
 edit 1.txt on KKTEST 
 test conflict of the edition on 1.txt in KKTEST branch
 look what conflict git will show
+
+The is book belong to Sharon 
+And Sharon like it!
+
+
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
 
 
 20171029 relearn git
@@ -45,4 +60,24 @@ I am not a book
 I am not a book
 I am not a book
 
+
+
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
 
