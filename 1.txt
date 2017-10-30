@@ -1,3 +1,10 @@
+merge branch FBTEST to master and delete FBTEST
+create a new branch KKTEST
+edit 1.txt on KKTEST 
+test conflict of the edition on 1.txt in KKTEST branch
+look what conflict git will show
+
+
 20171029 relearn git
 
 This is a book
@@ -11,6 +18,19 @@ I am not a book
 I am not a book
 I am not a book
 I am not a book
-
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
+I am not a book
 
 
