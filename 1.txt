@@ -1,11 +1,31 @@
-merge branch FBTEST to master and delete FBTEST
-create a new branch KKTEST
-edit 1.txt on KKTEST 
-test conflict of the edition on 1.txt in KKTEST branch
-look what conflict git will show
+The is book belong to Sharon 
+And Sharon like it!
 
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
 
-20171029 relearn git
-
-This is a book
-The boo is mine
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
+Test
