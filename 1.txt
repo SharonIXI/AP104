@@ -1,3 +1,15 @@
+20171030
+Test comflict
+Test comflict
+Test comflict
+Test comflict
+Test comflict
+Test comflict
+Test comflict
+Test comflict
+Test comflict
+
+
 merge branch FBTEST to master and delete FBTEST
 create a new branch KKTEST
 edit 1.txt on KKTEST 
